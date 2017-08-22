@@ -22,7 +22,7 @@ assignmentsMap := {
   Map(
     "example" -> Assignment(
       packageName = "example",
-      key = "9W3VuiJREeaFaw43_UrNUw",
+      key = "",
       itemId = "I6L8m",
       partId = "vsJoj",
       maxScore = 10d,
@@ -30,7 +30,7 @@ assignmentsMap := {
       options = Map("Xmx"->"1540m", "grader-memory"->"2048")),
     "wikipedia" -> Assignment(
       packageName = "wikipedia",
-      key = "EH8wby4kEeawURILfHIqjw",
+      key = "",
       itemId = "QcWcs",
       partId = "5komc",
       maxScore = 10d,
@@ -39,7 +39,7 @@ assignmentsMap := {
       options = Map("Xmx"->"1540m", "grader-memory"->"2048", "totalTimeout" -> "900", "grader-cpu" -> "2")),
     "stackoverflow" -> Assignment(
       packageName = "stackoverflow",
-      key = "7ByAoS4kEea1yxIfJA1CUw",
+      key = "",
       itemId = "FWGnz",
       partId = "OY5fJ",
       maxScore = 10d,
